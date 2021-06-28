@@ -6,8 +6,8 @@ var dogimg,dogimg1;
 function preload()
 {
 	//load images here
-  dogimg = loadImage("images/dogimg.png");
-  dogimg1 = loadImage("images/dogimg1.png");
+  dogimg = loadImage("images/dogImg.png");
+  dogimg1 = loadImage("images/dogImg1.png");
 }
 
 function setup() {
